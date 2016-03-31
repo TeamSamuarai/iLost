@@ -60,8 +60,8 @@
 		A9547B271C80328900CAC4B5 /* EngrGwy_1F.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EngrGwy_1F.json; sourceTree = "<group>"; };
 		A95FD0471CACF71900E5FDE3 /* FootprintTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = FootprintTests.xctest; path = "/Users/liaojinliang/Documents/iOS_workspace/Footprint_backup/build/Debug-iphoneos/FootprintTests.xctest"; sourceTree = "<absolute>"; };
 		A95FD0481CACF71900E5FDE3 /* FootprintUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = FootprintUITests.xctest; path = "/Users/liaojinliang/Documents/iOS_workspace/Footprint_backup/build/Debug-iphoneos/FootprintUITests.xctest"; sourceTree = "<absolute>"; };
+		A95FD0491CACFD1100E5FDE3 /* Footprint.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Footprint.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A97549EE1C6D97C300892348 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		A97AE72B1C5C2C0C0091AB5F /* Footprint.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Footprint.app; path = "/Users/liaojinliang/Documents/iOS_workspace/Footprint_backup/build/Debug-iphoneos/Footprint.app"; sourceTree = "<absolute>"; };
 		A97AE75F1C644E660091AB5F /* SiteAndBeaconIist.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SiteAndBeaconIist.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -94,6 +94,7 @@
 			isa = PBXGroup;
 			children = (
 				A641A13D1B586C6A00B1035B /* Footprint */,
+				A95FD0491CACFD1100E5FDE3 /* Footprint.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -138,7 +139,7 @@
 			);
 			name = Footprint;
 			productName = Footprint;
-			productReference = A97AE72B1C5C2C0C0091AB5F /* Footprint.app */;
+			productReference = A95FD0491CACFD1100E5FDE3 /* Footprint.app */;
 			productType = "com.apple.product-type.application";
 		};
 		A641A14E1B586C6A00B1035B /* FootprintTests */ = {
