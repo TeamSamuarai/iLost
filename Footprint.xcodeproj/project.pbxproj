@@ -58,10 +58,10 @@
 		A950C4DA1C6DB86B00F9D596 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		A950C4DC1C6DC56000F9D596 /* FirstTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstTableViewController.swift; sourceTree = "<group>"; };
 		A9547B271C80328900CAC4B5 /* EngrGwy_1F.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EngrGwy_1F.json; sourceTree = "<group>"; };
+		A95FD0471CACF71900E5FDE3 /* FootprintTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = FootprintTests.xctest; path = "/Users/liaojinliang/Documents/iOS_workspace/Footprint_backup/build/Debug-iphoneos/FootprintTests.xctest"; sourceTree = "<absolute>"; };
+		A95FD0481CACF71900E5FDE3 /* FootprintUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = FootprintUITests.xctest; path = "/Users/liaojinliang/Documents/iOS_workspace/Footprint_backup/build/Debug-iphoneos/FootprintUITests.xctest"; sourceTree = "<absolute>"; };
 		A97549EE1C6D97C300892348 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		A97AE72B1C5C2C0C0091AB5F /* Footprint.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Footprint.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A97AE72C1C5C2C0C0091AB5F /* FootprintTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = FootprintTests.xctest; path = "/Users/liaojinliang/Documents/ios_workspace/Footprint_backup/build/Debug-iphoneos/FootprintTests.xctest"; sourceTree = "<absolute>"; };
-		A97AE72D1C5C2C0C0091AB5F /* FootprintUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = FootprintUITests.xctest; path = "/Users/liaojinliang/Documents/ios_workspace/Footprint_backup/build/Debug-iphoneos/FootprintUITests.xctest"; sourceTree = "<absolute>"; };
+		A97AE72B1C5C2C0C0091AB5F /* Footprint.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Footprint.app; path = "/Users/liaojinliang/Documents/iOS_workspace/Footprint_backup/build/Debug-iphoneos/Footprint.app"; sourceTree = "<absolute>"; };
 		A97AE75F1C644E660091AB5F /* SiteAndBeaconIist.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SiteAndBeaconIist.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -94,7 +94,6 @@
 			isa = PBXGroup;
 			children = (
 				A641A13D1B586C6A00B1035B /* Footprint */,
-				A97AE72B1C5C2C0C0091AB5F /* Footprint.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -157,7 +156,7 @@
 			);
 			name = FootprintTests;
 			productName = FootprintTests;
-			productReference = A97AE72C1C5C2C0C0091AB5F /* FootprintTests.xctest */;
+			productReference = A95FD0471CACF71900E5FDE3 /* FootprintTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		A641A1591B586C6A00B1035B /* FootprintUITests */ = {
@@ -175,7 +174,7 @@
 			);
 			name = FootprintUITests;
 			productName = FootprintUITests;
-			productReference = A97AE72D1C5C2C0C0091AB5F /* FootprintUITests.xctest */;
+			productReference = A95FD0481CACF71900E5FDE3 /* FootprintUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
