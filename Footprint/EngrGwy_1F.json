@@ -1,0 +1,33 @@
+{
+  "BeaconList":[
+   {"Major":101, "Minor":"1", "addr":{"x":100,"y":200}},
+   {"Major":101, "Minor":"2", "addr":{"x":150,"y":200}},
+   {"Major":101, "Minor":"3", "addr":{"x":200,"y":200}},
+   {"Major":101, "Minor":"4", "addr":{"x":150,"y":200}},
+   {"Major":101, "Minor":"5", "addr":{"x":150,"y":200}},
+   {"Major":101, "Minor":"6", "addr":{"x":100,"y":200}},
+   {"Major":101, "Minor":"7", "addr":{"x":150,"y":200}},
+   {"Major":101, "Minor":"8", "addr":{"x":200,"y":200}},
+   {"Major":101, "Minor":"9", "addr":{"x":150,"y":200}},
+   {"Major":101, "Minor":"10", "addr":{"x":100,"y":200}},
+   {"Major":101, "Minor":"11", "addr":{"x":150,"y":200}},
+   {"Major":101, "Minor":"12", "addr":{"x":200,"y":200}}
+   
+],
+
+  "SiteInfo":[
+   {"RoomNum":"EG1101", "addr":{"x":100,"y":200}},
+   {"RoomNum":"EG1102", "addr":{"x":150,"y":200}},
+   {"RoomNum":"EG1103", "addr":{"x":200,"y":200}},
+   {"RoomNum":"EG1104", "addr":{"x":150,"y":200}},
+   {"RoomNum":"EG1105", "addr":{"x":100,"y":200}},
+   {"RoomNum":"EG1106", "addr":{"x":150,"y":200}},
+   {"RoomNum":"EG1107", "addr":{"x":200,"y":200}},
+   {"RoomNum":"EG1108", "addr":{"x":150,"y":200}},
+   {"RoomNum":"EG1109", "addr":{"x":100,"y":200}},
+   {"RoomNum":"EG1110", "addr":{"x":150,"y":200}},
+   {"RoomNum":"EG1111", "addr":{"x":200,"y":200}},
+   {"RoomNum":"EG1112", "addr":{"x":200,"y":200}}
+   ]
+
+}
